@@ -23,7 +23,7 @@ const loja2 = {
     logoUrl : "imagemGenericaDeALaMinutaIssoAi.png",
     nota : 4.5,
     especialidade : especialidades[3],
-    taxaEntrega : null,
+    taxaEntrega : 10,
     promocoes : [promocoesClube[1]],
     minsEntrega : [34, 44],
     distanciaKm : 1.6,
